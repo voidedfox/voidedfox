@@ -1,10 +1,9 @@
 <div align="center">
 <img src="https://i.postimg.cc/CK0Tm0CK/IMG-20250617-020948-889.png" alt="Main Photo" width="15%" height="15%"/>
 <br/>
-<font size="5">
-🦊 Artem (<font size="4">voidedfox</font>) • 19<font size="3">y/o</font>
-</font><br/>
-<font size="3"><strong>Russian Federation</strong></font>
+🦊 <strong>Artem (voidedfox) • 19<sup>y/o</sup></strong>
+<br/>
+<strong>Russian Federation</strong>
 </div>
 
 ___
@@ -23,5 +22,5 @@ ___
 - <a href="https://vk.com/voidedfox" target="_blank">VK.COM</a>
 ___
 <p align="center">
-    <small>©voidedfox; 2025 - Made with 💖 and coffee 😉</small>
+    <sub>©voidedfox; 2025 - Made with 💖 and coffee 😉</sub>
 </p>
