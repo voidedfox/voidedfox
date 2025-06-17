@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+<img src="https://i.postimg.cc/CK0Tm0CK/IMG-20250617-020948-889.png" alt="Main Photo" width="15%" height="15%"/>
+<br/>
+<font size="5">
+🦊 Artem (<font size="4">voidedfox</font>) • 19<font size="3">y/o</font>
+</font><br/>
+<font size="3"><strong>Russian Federation</strong></font>
+</div>
 
-<!--
-**voidedfox/voidedfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+### About Me
+- 👨‍💻 ***Backend Node.js & PHP dev.***
+- 🤖 ***Specializing in building bots for Telegram, VK, and other platforms.***
+- ⚙️ ***Passionate about automating tasks and creating reliable, scalable server-side solutions.***
 
-Here are some ideas to get you started:
+### Current Projects & Skills
+- 🤖 ***Developing and maintaining bots for Telegram, VK, and other platforms***
+- 🛠 ***Proficient in Node.js, Express, and PHP***
+- 📦 ***Creating and managing npm packages and open-source tools***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me
+- <a href="https://t.me/voidedfox" target="_blank">Telegram</a>
+- <a href="https://vk.com/voidedfox" target="_blank">VK.COM</a>
+___
+<p align="center">
+    <small>©voidedfox; 2025 - Made with 💖 and coffee 😉</small>
+</p>
